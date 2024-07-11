@@ -2,5 +2,4 @@
 ## Screenshots
 
 - **Chat Screen**:
-  !(Figure_1.png )
-
+  ![Chat Screen](Figure_1.png )
