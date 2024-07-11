@@ -2,5 +2,5 @@
 ## Screenshots
 
 - **Chat Screen**:
-  ![Chat Screen](Figure_1.png workshop.png)
+  ![Chat Screen](Figure_1.png )
 
