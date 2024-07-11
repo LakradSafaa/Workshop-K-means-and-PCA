@@ -2,4 +2,4 @@
 ## Screenshots
 
 - **Figure Screen**:
-  ![Figure Screen](WORKSHOP/Figure_1.png)
+  ![Figure Screen](screenshot.png)
