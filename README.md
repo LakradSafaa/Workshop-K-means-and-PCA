@@ -2,4 +2,4 @@
 ## Screenshots
 
 - **Figure Screen**:
-  ![Figure Screen](Figure_1.png)
+  ![Figure Screen](images/Figure_1.png)
